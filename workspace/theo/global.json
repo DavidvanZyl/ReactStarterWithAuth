@@ -1,0 +1,8 @@
+{
+  "global": {
+    "category": "some-category",
+    "meta": {
+      "foo": "baz"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "props": {
+    "primary": {
+      "value": "{!primary}",
+      "type": "color",
+      "category": "background"
+    }
+  },
+  "imports": ["./global.json", "./aliases.json"]
+}
