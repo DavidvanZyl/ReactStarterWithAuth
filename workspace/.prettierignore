@@ -1,0 +1,9 @@
+# Add files here to ignore them from prettier formatting
+
+/dist
+/coverage
+yarn-lock.json
+package.json
+**/package.json
+**/yarn-lock.json
+.eslintrc
